@@ -1,0 +1,5 @@
+The Java Tutorials - JSE 8 as on 10-7-2016
+https://docs.oracle.com/javase/tutorial/java/TOC.html
+
+JAVA DOCS 8 for JSE 8
+https://docs.oracle.com/javase/8/docs/api/
